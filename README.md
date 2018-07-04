@@ -20,7 +20,7 @@ mkdir chromedriver
 5. Put the downloaded chromedriver.exe into the ./chromedriver folder you just created.
   a. A better idea would be to put chromedriver.exe in another folder that you can reference for multiple prjoects. All you have to do is      change the driver path on line 43.
 ```
-$python scrape.py
+python scrape.py
 ```
 7. It will ask you for your linkedin email, password, then the job and location search parameters.
 8. If you don't want to follow every profile, delete or comment out lines 101-107.
