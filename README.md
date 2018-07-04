@@ -2,7 +2,7 @@
 
 A Selenium based scraper that stores [LinkedIn](https://linkedin.com) profile data in a csv, and saves the profile to a pdf, and then follows the account.
 
-##Usage
+## Usage
 
 1. You must have python 3.6 installed.
 1. git clone https://github.com/justinformentin/scrape-linkedin.git
