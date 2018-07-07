@@ -40,7 +40,7 @@ sleep(randrange(5,7))
 
 # Driver path if needed
 
-driver = webdriver.Chrome('./chromedriver/chromedriver.exe')
+driver = webdriver.Chrome('/usr/local/bin')
 driver.get("https://www.linkedin.com")
 
 # Selenium signs in
