@@ -17,8 +17,7 @@ pip install -r requirements.txt
 ```
 mkdir chromedriver
 ```
-5. Put the downloaded chromedriver.exe into the ./chromedriver folder you just created.
-  a. A better idea would be to put chromedriver.exe in another folder that you can reference for multiple prjoects. All you have to do is      change the driver path on line 43.
+5. Put the downloaded chromedriver.exe into /usr/local/bin.
 ```
 python scrape.py
 ```
